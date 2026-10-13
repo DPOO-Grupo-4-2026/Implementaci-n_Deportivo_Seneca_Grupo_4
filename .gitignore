@@ -1,0 +1,5 @@
+bin/
+*.class
+.metadata/
+ClubDeportivoSeneca/datos/*.dat
+.DS_Store
