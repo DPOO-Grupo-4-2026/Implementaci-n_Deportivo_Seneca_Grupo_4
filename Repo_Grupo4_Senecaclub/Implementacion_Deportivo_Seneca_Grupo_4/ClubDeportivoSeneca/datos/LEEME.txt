@@ -1,2 +1,0 @@
-Archivos de datos de la aplicacion (datos/club.dat).
-Esta carpeta queda fuera de src porque el enunciado no permite guardar los datos junto al codigo.
