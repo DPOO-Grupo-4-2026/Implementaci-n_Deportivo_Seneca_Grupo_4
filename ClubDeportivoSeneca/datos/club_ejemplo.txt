@@ -1,0 +1,172 @@
+# Club Deportivo Seneca. Una linea por objeto; los campos van separados por punto y coma.
+CLUB;Club Deportivo Seneca;06:00;22:00
+# USUARIOS Y TURNOS
+USUARIO;Administrador;admin;admin123;Laura Rojas;1985-03-10;true;0
+USUARIO;Entrenador;ent1;ent123;Carlos Pineda;1990-05-02;true;0
+USUARIO;Entrenador;ent2;ent123;Diana Mora;1988-11-20;true;0
+USUARIO;Entrenador;ent3;ent123;Felipe Arango;1993-01-15;true;0
+USUARIO;Fisioterapeuta;fis1;fis123;Paula Nieto;1991-07-08;true;0
+USUARIO;Fisioterapeuta;fis2;fis123;Jorge Salas;1989-09-30;true;0
+USUARIO;Socio;sofia;sofia123;Sofia Herrera;2004-02-14;true;0
+USUARIO;Socio;mateo;mateo123;Mateo Ruiz;2012-06-01;true;0
+USUARIO;Socio;valentina;vale123;Valentina Cruz;2006-04-25;true;0
+USUARIO;Socio;andres;andres123;Andres Lozano;2010-08-12;true;0
+USUARIO;Socio;jugA1;clave;Jugador A1;1998-01-01;true;0
+USUARIO;Socio;jugB1;clave;Jugador B1;1999-01-01;true;0
+USUARIO;Socio;jugA2;clave;Jugador A2;1998-01-02;true;0
+USUARIO;Socio;jugB2;clave;Jugador B2;1999-01-02;true;0
+USUARIO;Socio;jugA3;clave;Jugador A3;1998-01-03;true;0
+USUARIO;Socio;jugB3;clave;Jugador B3;1999-01-03;true;0
+USUARIO;Socio;jugA4;clave;Jugador A4;1998-01-04;true;0
+USUARIO;Socio;jugB4;clave;Jugador B4;1999-01-04;true;0
+USUARIO;Socio;jugA5;clave;Jugador A5;1998-01-05;true;0
+USUARIO;Socio;jugB5;clave;Jugador B5;1999-01-05;true;0
+USUARIO;Socio;jugA6;clave;Jugador A6;1998-01-06;true;0
+USUARIO;Socio;jugB6;clave;Jugador B6;1999-01-06;true;0
+USUARIO;Socio;jugA7;clave;Jugador A7;1998-01-07;true;0
+USUARIO;Socio;jugB7;clave;Jugador B7;1999-01-07;true;0
+USUARIO;Socio;jugA8;clave;Jugador A8;1998-01-08;true;0
+USUARIO;Socio;jugB8;clave;Jugador B8;1999-01-08;true;0
+USUARIO;Socio;jugA9;clave;Jugador A9;1998-01-09;true;0
+USUARIO;Socio;jugB9;clave;Jugador B9;1999-01-09;true;0
+USUARIO;Socio;jugA10;clave;Jugador A10;1998-01-10;true;0
+USUARIO;Socio;jugB10;clave;Jugador B10;1999-01-10;true;0
+USUARIO;Socio;jugA11;clave;Jugador A11;1998-01-11;true;0
+USUARIO;Socio;jugB11;clave;Jugador B11;1999-01-11;true;0
+USUARIO;Socio;jugA12;clave;Jugador A12;1998-01-12;true;0
+USUARIO;Socio;jugB12;clave;Jugador B12;1999-01-12;true;0
+CODIGO;DESC-ENT1;ent1;true
+PERFIL;valentina;true
+PERFIL;andres;true
+PERFIL;jugA1;true
+PERFIL;jugB1;true
+PERFIL;jugA2;true
+PERFIL;jugB2;true
+PERFIL;jugA3;true
+PERFIL;jugB3;true
+PERFIL;jugA4;true
+PERFIL;jugB4;true
+PERFIL;jugA5;true
+PERFIL;jugB5;true
+PERFIL;jugA6;true
+PERFIL;jugB6;true
+PERFIL;jugA7;true
+PERFIL;jugB7;true
+PERFIL;jugA8;true
+PERFIL;jugB8;true
+PERFIL;jugA9;true
+PERFIL;jugB9;true
+PERFIL;jugA10;true
+PERFIL;jugB10;true
+PERFIL;jugA11;true
+PERFIL;jugB11;true
+PERFIL;jugA12;true
+PERFIL;jugB12;true
+TURNO;ent1;MONDAY;06:00;14:00
+TURNO;ent2;MONDAY;06:00;22:00
+TURNO;ent3;MONDAY;14:00;22:00
+TURNO;fis1;MONDAY;06:00;14:00
+TURNO;fis2;MONDAY;14:00;22:00
+TURNO;ent1;TUESDAY;06:00;14:00
+TURNO;ent2;TUESDAY;06:00;22:00
+TURNO;ent3;TUESDAY;14:00;22:00
+TURNO;fis1;TUESDAY;06:00;14:00
+TURNO;fis2;TUESDAY;14:00;22:00
+TURNO;ent1;WEDNESDAY;06:00;14:00
+TURNO;ent2;WEDNESDAY;06:00;22:00
+TURNO;ent3;WEDNESDAY;14:00;22:00
+TURNO;fis1;WEDNESDAY;06:00;14:00
+TURNO;fis2;WEDNESDAY;14:00;22:00
+TURNO;ent1;THURSDAY;06:00;14:00
+TURNO;ent2;THURSDAY;06:00;22:00
+TURNO;ent3;THURSDAY;14:00;22:00
+TURNO;fis1;THURSDAY;06:00;14:00
+TURNO;fis2;THURSDAY;14:00;22:00
+TURNO;ent1;FRIDAY;06:00;14:00
+TURNO;ent2;FRIDAY;06:00;22:00
+TURNO;ent3;FRIDAY;14:00;22:00
+TURNO;fis1;FRIDAY;06:00;14:00
+TURNO;fis2;FRIDAY;14:00;22:00
+TURNO;ent1;SATURDAY;06:00;14:00
+TURNO;ent2;SATURDAY;06:00;22:00
+TURNO;ent3;SATURDAY;14:00;22:00
+TURNO;fis1;SATURDAY;06:00;14:00
+TURNO;fis2;SATURDAY;14:00;22:00
+TURNO;ent1;SUNDAY;06:00;14:00
+TURNO;ent2;SUNDAY;06:00;22:00
+TURNO;ent3;SUNDAY;14:00;22:00
+TURNO;fis1;SUNDAY;06:00;14:00
+TURNO;fis2;SUNDAY;14:00;22:00
+# DEPORTES DE CONJUNTO
+DEPORTE;Futbol;7;true;3;1;0
+DEPORTE;Baloncesto;5;false;2;0;1
+DEPORTE;Voleibol;6;false;2;0;1
+CATEGORIA;Sub-13;8;12
+CATEGORIA;Sub-15;13;14
+CATEGORIA;Sub-17;15;16
+CATEGORIA;Mayores;17;99
+EQUIPO;Seneca Futbol Mayores A;20;Futbol;Mayores;true
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA1;Campo;12;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA2;Campo;13;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA3;Campo;14;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA4;Campo;15;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA5;Campo;16;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA6;Campo;17;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA7;Campo;18;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA8;Campo;19;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA9;Campo;20;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA10;Campo;21;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA11;Campo;22;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores A;jugA12;Campo;23;0
+EQUIPO;Seneca Futbol Mayores B;20;Futbol;Mayores;true
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB1;Campo;12;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB2;Campo;13;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB3;Campo;14;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB4;Campo;15;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB5;Campo;16;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB6;Campo;17;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB7;Campo;18;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB8;Campo;19;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB9;Campo;20;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB10;Campo;21;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB11;Campo;22;0
+INSCRIPCION_EQUIPO;Seneca Futbol Mayores B;jugB12;Campo;23;0
+EQUIPO;Seneca Futbol Sub-15;18;Futbol;Sub-15;true
+EQUIPO;Seneca Baloncesto Mayores;12;Baloncesto;Mayores;true
+EQUIPO;Seneca Voleibol Mayores (cupo 1);1;Voleibol;Mayores;true
+# DEPORTES INDIVIDUALES
+DISCIPLINA;Tenis;true;2
+INSTALACION;Tenis;CanchaTenis;T1;Cancha de tenis 1;4;false;true
+INSTALACION;Tenis;CanchaTenis;T2;Cancha de tenis 2;4;false;true
+INSCRIPCION_DISCIPLINA;Tenis;valentina;PRINCIPIANTE;1000
+INSCRIPCION_DISCIPLINA;Tenis;andres;INTERMEDIO;1000
+DISCIPLINA;Padel;true;1
+INSTALACION;Padel;CanchaPadel;P1;Cancha de padel 1;4;true;-
+DISCIPLINA;Tenis de mesa;true;1
+INSTALACION;Tenis de mesa;MesaTenisMesa;M1;Mesa techada;4;true;true
+INSTALACION;Tenis de mesa;MesaTenisMesa;M2;Mesa al aire libre;2;false;false
+# COMPETENCIAS
+COMPETENCIA;CompetenciaLiga;Torneo de los Cerros;Universidades de la ciudad;2026;11;Futbol;Mayores
+COMPETENCIA;CompetenciaPorFases;Torneo ASCUN;ASCUN;2026;11;Futbol;Mayores
+# ESTADISTICAS DE TODOS LOS PARTIDOS
+# ENTRENAMIENTO
+# TIENDA Y CAFETERIA
+PRODUCTO;ArticuloDeportivo;A-01;Raqueta de tenis;320000.0;Raquetas
+PRODUCTO;ArticuloDeportivo;A-02;Balon de futbol;95000.0;Balones
+PRODUCTO;Bebida;B-01;Cafe;4500.0;true
+PRODUCTO;Bebida;B-02;Jugo de naranja;6000.0;false
+PRODUCTO;Snack;S-01;Barra de mani;5500.0;-
+ALERGENO;S-01;Mani
+ALERGENO;S-01;Gluten
+UBICACION;Bodega;BODEGA
+EXISTENCIA;Bodega;A-01;10
+EXISTENCIA;Bodega;A-02;25
+UBICACION;Tienda;TIENDA
+EXISTENCIA;Tienda;A-01;2
+EXISTENCIA;Tienda;A-02;5
+UBICACION;Cafeteria;CAFETERIA
+EXISTENCIA;Cafeteria;B-01;50
+EXISTENCIA;Cafeteria;B-02;30
+EXISTENCIA;Cafeteria;S-01;20
+PAGO;sofia;2026-10;150000.0;2026-10-01
+PAGO;valentina;2026-10;150000.0;2026-10-02

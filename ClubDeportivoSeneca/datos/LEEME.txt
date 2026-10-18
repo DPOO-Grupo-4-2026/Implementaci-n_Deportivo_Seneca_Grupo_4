@@ -1,2 +1,4 @@
-Archivos de datos de la aplicacion (datos/club.dat).
+Datos del club en texto plano.
+club_ejemplo.txt: el club con el que arranca la aplicacion la primera vez.
+club.txt: el club con lo que se ha hecho; se crea al cerrar sesion y no se sube al repositorio.
 Esta carpeta queda fuera de src porque el enunciado no permite guardar los datos junto al codigo.

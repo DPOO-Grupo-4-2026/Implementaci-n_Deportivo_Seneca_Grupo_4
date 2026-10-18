@@ -1,5 +1,5 @@
 bin/
 *.class
 .metadata/
-ClubDeportivoSeneca/datos/*.dat
+ClubDeportivoSeneca/datos/club.txt
 .DS_Store
