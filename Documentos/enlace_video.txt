@@ -1,0 +1,6 @@
+Video de demostracion del Club Deportivo Seneca (Grupo 4)
+
+https://www.youtube.com/watch?v=j3xLtcEozh4
+
+Recorrido en silencio, con subtitulos, de los tres tipos de usuario: socio (sofia), empleado y administrador (admin).
+Los usuarios y claves estan en la opcion 2 del menu de inicio de la aplicacion.
